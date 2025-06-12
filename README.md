@@ -36,7 +36,7 @@ The architecture consists of:
 
 2. **Application Tier (Business Logic):** This tier processes the core functionalities of the e-commerce platform, including order processing, user authentication, and product catalog management. In the context of an online clothing store, this tier manages the logic for adding items to the cart, processing payments, managing user accounts, and updating inventory levels.
 
-**3. Data Tier (Database):** This tier securely stores all the critical data, such as customer information, transaction records, and product details. For an online clothing store, this includes storing details of each clothing item, customer profiles, order histories, and payment information.
+3. **Data Tier (Database):** This tier securely stores all the critical data, such as customer information, transaction records, and product details. For an online clothing store, this includes storing details of each clothing item, customer profiles, order histories, and payment information.
 
 Prerequisites
 =============
